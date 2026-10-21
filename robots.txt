@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inva-med.kz/sitemap.xml
